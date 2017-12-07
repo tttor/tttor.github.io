@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>tor homepage</title>
+		<description>tor homepage description</description>		
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			
+				<item>
+					<title>About</title>
+					        
+					
+						<description>“About” introductory paragraph.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. Vivamus in ullamcorper ex, nec faucibus diam. Aenean eros purus, elementum sed nunc vitae, faucibus semper nibh. In ac nisl vitae massa scelerisque sagittis a elementum lectus.
+
+
+</description>
+					
+					<pubDate>Wed, 13 Apr 2016 00:00:00 +1000</pubDate>
+					<link>http://localhost:4000/about.html</link>
+					<guid isPermaLink="true">http://localhost:4000/about.html</guid>
+				</item>
+			
+		
+			
+				<item>
+					<title>Accolades</title>
+					        
+					
+						<description>“Accolades” introductory paragraph.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. Vivamus in ullamcorper ex, nec faucibus diam. Aenean eros purus, elementum sed nunc vitae, faucibus semper nibh. In ac nisl vitae massa scelerisque sagittis a elementum lectus.
+</description>
+					
+					<pubDate>Sat, 02 Apr 2016 00:00:00 +1000</pubDate>
+					<link>http://localhost:4000/accolades.html</link>
+					<guid isPermaLink="true">http://localhost:4000/accolades.html</guid>
+				</item>
+			
+		
+			
+				<item>
+					<title>CV</title>
+					        
+					
+						<description>
+  2015 graduate with a Master’s Degree in Comparative Politics from the University of Bergen. Currently a Research Assistant at the Norwegian School of Economics and Substitute Teacher through PVS.
+
+</description>
+					
+					<pubDate>Sat, 02 Apr 2016 00:00:00 +1000</pubDate>
+					<link>http://localhost:4000/cv.html</link>
+					<guid isPermaLink="true">http://localhost:4000/cv.html</guid>
+				</item>
+			
+		
+			
+		
+			
+		
+			
+				<item>
+					<title>Home</title>
+					        
+					
+						<description>Hi there, I am Vektor :)
+
+This page is still under construction.
+Most pages are unstable.
+Apologize me for that.
+
+Thank you.
+
+</description>
+					
+					<pubDate>Wed, 13 Apr 2016 00:00:00 +1000</pubDate>
+					<link>http://localhost:4000/</link>
+					<guid isPermaLink="true">http://localhost:4000/</guid>
+				</item>
+			
+		
+			
+				<item>
+					<title>Media</title>
+					        
+					
+						<description>&quot;Media&quot; introductory paragraph.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. Vivamus in ullamcorper ex, nec faucibus diam. Aenean eros purus, elementum sed nunc vitae, faucibus semper nibh. In ac nisl vitae massa scelerisque sagittis a elementum lectus.</description>
+					
+					<pubDate>Sat, 02 Apr 2016 00:00:00 +1000</pubDate>
+					<link>http://localhost:4000/media.html</link>
+					<guid isPermaLink="true">http://localhost:4000/media.html</guid>
+				</item>
+			
+		
+			
+				<item>
+					<title>Papers</title>
+					        
+					
+						<description>&quot;Papers&quot; introductory paragraph.
+
+## Working papers
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. Vivamus in ullamcorper ex, nec faucibus diam. Aenean eros purus, elementum sed nunc vitae, faucibus semper nibh. In ac nisl vitae massa scelerisque sagittis a elementum lectus.
+
+## Published papers
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. Vivamus in ullamcorper ex, nec faucibus diam. Aenean eros purus, elementum sed nunc vitae, faucibus semper nibh. In ac nisl vitae massa scelerisque sagittis a elementum lectus.
+
+Here is a paper, which you can find at [ResearchGate](http://dx.doi.org/10.13140/RG.2.1.1137.2247).
+
+</description>
+					
+					<pubDate>Wed, 13 Apr 2016 00:00:00 +1000</pubDate>
+					<link>http://localhost:4000/papers.html</link>
+					<guid isPermaLink="true">http://localhost:4000/papers.html</guid>
+				</item>
+			
+		
+			
+				<item>
+					<title>Research</title>
+					        
+					
+						<description>&quot;Research&quot; introductory paragraph.
+
+## Project One
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.
+
+## Project Two
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.
+
+## Project Three
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.
+
+## Project Four
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.</description>
+					
+					<pubDate>Wed, 13 Apr 2016 00:00:00 +1000</pubDate>
+					<link>http://localhost:4000/research.html</link>
+					<guid isPermaLink="true">http://localhost:4000/research.html</guid>
+				</item>
+			
+		
+			
+		
+			
+				<item>
+					<title>Teaching</title>
+					        
+					
+						<description>&quot;Teaching&quot; introductory paragraph.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. Vivamus in ullamcorper ex, nec faucibus diam. Aenean eros purus, elementum sed nunc vitae, faucibus semper nibh. In ac nisl vitae massa scelerisque sagittis a elementum lectus.</description>
+					
+					<pubDate>Sat, 02 Apr 2016 00:00:00 +1000</pubDate>
+					<link>http://localhost:4000/teaching.html</link>
+					<guid isPermaLink="true">http://localhost:4000/teaching.html</guid>
+				</item>
+			
+		
+			
+		
+			
+		
+	</channel>
+</rss>

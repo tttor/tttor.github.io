@@ -1,3 +1,6 @@
+---
+search_omit: true
+---
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -24,10 +27,38 @@
 							<main class="content col-md-9" role="main">
 								{% include mobile_header.html %}
 								<article>
-									<h1>{{ page.title }}</h1>
-									{{ content }}
-									<small class="text-muted">Last updated on {{ page.date | date: "%B %d, %Y" }}</small>
-									{% include sharing.html %}
+									<h1>Search</h1>
+									<p>Find keywords or phrases anywhere on the site.</p>
+									<!-- Search form -->						
+									<form method="get" action="/search" class="form-inline" role="search" data-search-form>
+										<div class="input-group">
+											<input type="search" name="q" id="q" class="form-control" placeholder="Enter search term" data-search-input />
+											<span class="input-group-btn">
+												<button class="btn btn-secondary" type="submit">
+													<i class="fa fa-search"></i>
+												</button>
+											</span>
+										</div>
+									</form>
+									
+									<!-- Search results placeholder -->
+									<p data-search-found>
+										<span data-search-found-count></span> result(s) found for <em><span data-search-found-term></span></em>.
+									</p>
+									<div data-search-results></div>
+									<!-- Search result template -->
+									<script type="text/x-template" id="search-result">
+										<div>
+											<h4><a href="##Url##">##Title##</a></h4>
+											<small class="text-muted">##Date##</small>
+											<p>##AutoExcerpt##</p>
+											<a href="##Url##">
+												<button type="button" class="btn btn-secondary btn-sm">
+													Read <i class="fa fa-angle-double-right"></i>
+												</button>
+											</a>
+										</div>
+									</script>
 								</article>
 								<footer class="text-xs-center hidden-print">
 									<small class="text-muted">Copyright {{ site.time | date: '%Y' }}, all lefts reserved. Developed by <a href="http://olevik.me/">Ole Vik</a>, hosted on GitHub pages.</small>
@@ -41,22 +72,6 @@
 		</div>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" crossorigin="anonymous"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.1.0/anchor.js"></script>
-		<script>
-		anchors.options = {
-			placement: 'right',
-			visible: 'touch ',
-			truncate: 128
-		};
-		anchors.add('article h2, article h3, article h4, article h5, article h6');
-		
-		$(function() {
-			$("table").addClass("table");
-			$("table").wrap('<div class="table-responsive"></div>');
-		});
-		</script>
-		{% if site.mathjax %}
-		<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-		{% endif %}
+		<script src="/assets/js/search.js"></script>
 	</body>
 </html>
