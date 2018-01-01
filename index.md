@@ -9,8 +9,13 @@ Greetings! I am Vektor. <br />
 I make autonomous robots **fully** autonomous.
 
 I strongly believe that reinforcement learning (RL) is one _key_ element of _fully_ autonomous robots. <br />
-Here, I refer to _both_ model-free _and_ model-based RL, where the latter consists of model learning and planning.
+Here, I refer to the _integrated_ model-free _and_ model-based RL, where the latter consists of model learning and planning.
 
 I am a PhD student in the [Robot Design Lab](http://robotics.itee.uq.edu.au), [School of ITEE](http://www.itee.uq.edu.au/), [Univ. of Queensland](https://www.uq.edu.au/). <br />
 My _dear_ supervisor is [Hanna Kurniawati](http://robotics.itee.uq.edu.au/~hannakur/dokuwiki/doku.php?id=wiki:welcome).
 
+I graduated in electrical eng (control stream, bachelor) from the [Dept of Electrical Eng](http://www.ee.ui.ac.id), [University of Indonesia](http://www.ui.ac.id/en/) _and_ in computational intelligence (master) from the Dept of Computational Intelligence (now part of [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04.html)), [Tokyo Institute of Technology](https://www.titech.ac.jp/english/).
+
+I am originally from [Kutoarjo](https://id.wikipedia.org/wiki/Kutoarjo,_Purworejo), [Purworejo](https://en.wikipedia.org/wiki/Purworejo_Regency). <br />
+I proudly speak [Javanese](https://en.wikipedia.org/wiki/Javanese_language) and [Indonesian](https://en.wikipedia.org/wiki/Indonesian_language) as my native languages.
+I also speak English and (struggle for) [Arabic](https://en.wikipedia.org/wiki/Arabic).
