@@ -17,5 +17,5 @@ See me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [som
 ## Notes
 * [Printscreen](https://photos.app.goo.gl/p2xnILiK5HJ1l4S52)
 * [Talknote](https://github.com/tttor/talk)
-* [AI vs Control](https://www.youtube.com/watch?v=XF_ACsJiz64) (goto 09:00)
+* [AI vs Control, by Sebastian](https://www.youtube.com/watch?v=XF_ACsJiz64) (goto 09:00)
   * the difference is vanishing
