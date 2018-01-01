@@ -12,3 +12,6 @@
   * `jekyll new myblog`
   * `cd myblog`
   * `bundle exec jekyll serve` # Now browse to http://localhost:4000
+
+## ref
+* https://github.com/OleVik/personal-academic-website
