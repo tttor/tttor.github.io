@@ -11,7 +11,7 @@ See me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [som
 
 ## Inspiring
 * [Loyal seniors](https://www.youtube.com/watch?v=qMgGqHo8nsg) # goto 50:00
-* [Peter and Sebatian advice](https://www.youtube.com/watch?v=Y6LF-_-pMgI)
+* [Peter and Sebastian advice](https://www.youtube.com/watch?v=Y6LF-_-pMgI)
   * the best way to learn is to solve problems (goto 06:30)
 
 ## Notes
