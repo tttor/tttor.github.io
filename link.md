@@ -7,4 +7,3 @@ layout: default
 
 * [Github](https://github.com/tttor)
 * [GoogleScholar](https://scholar.google.com/citations?user=AYOBcPYAAAAJ)
-* [board](https://photos.app.goo.gl/ldQLdSsQeWtJb1973)
