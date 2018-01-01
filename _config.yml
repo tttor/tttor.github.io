@@ -3,8 +3,8 @@ description: tor homepage description
 menu:
  - page: Home
    url: /index
- - page: Research
-   url: /research
+ - page: Robots
+   url: /robot
  - page: Islam
    url: /islam
  - page: Family
