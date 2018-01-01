@@ -6,4 +6,4 @@ layout: default
 ---
 
 I am a happily married man.
-We have one son :)
+Currently, we are raising our first son: Euclid :)
