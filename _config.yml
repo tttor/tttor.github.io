@@ -5,12 +5,12 @@ menu:
    url: /index
  - page: Robots
    url: /robot
+ - page: Projects
+   url: /project
  - page: Islam
    url: /islam
  - page: Family
    url: /family
- - page: Resources
-   url: /resource
  - page: Links
    url: /link
 mathjax: false
