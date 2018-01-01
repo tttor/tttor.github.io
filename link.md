@@ -7,3 +7,4 @@ layout: default
 
 * [Github](https://github.com/tttor)
 * [GoogleScholar](https://scholar.google.com/citations?user=AYOBcPYAAAAJ)
+* [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56595210300)
