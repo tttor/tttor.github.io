@@ -10,11 +10,13 @@ I gratefully acknowledge the teaching of my supervisors, seniors, and teammates 
 See me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [some robots](https://photos.app.goo.gl/soMObj1VDShBW1sL2)
 
 ## Inspiring
-* [Cozmo](https://www.youtube.com/watch?time_continue=17&v=ldi1NCpe2Aw)
 * [Loyal seniors (goto 50:00)](https://www.youtube.com/watch?v=qMgGqHo8nsg)
 * [Andrew thanks MLclass students (goto 02:30)](https://www.youtube.com/watch?v=Qz41Q89cHGM&list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP&index=107)
+* [Nuts and Bolts of Applying Deep Learning (Andrew Ng)](https://www.youtube.com/watch?v=F1ka6a13S9I&feature=share)
 * [Peter and Sebastian advice](https://www.youtube.com/watch?v=Y6LF-_-pMgI)
   * the best way to learn is to solve problems (goto 06:30)
+* [Sci-Hub: to remove the barriers in the way of science](https://en.wikipedia.org/wiki/Sci-Hub)
+* [Cozmo robot](https://www.youtube.com/watch?time_continue=17&v=ldi1NCpe2Aw)
 
 ## Notes
 * [Printscreen](https://photos.app.goo.gl/p2xnILiK5HJ1l4S52)
