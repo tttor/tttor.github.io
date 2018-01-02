@@ -9,5 +9,5 @@ I luckily got married to Ekaputri, a frequentist statistician. <br />
 Currently, we are raising our first son, Euclid :) <br />
 Our humble gallery is [here](https://photos.app.goo.gl/RCLlPWahKz8b8O0x1).
 
-## Misc:
+### Inspiring:
 * [Peter Pete speaks Javanese](https://www.youtube.com/watch?v=Ha8RDd5LIxg&feature=share)
