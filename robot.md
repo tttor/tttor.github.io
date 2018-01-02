@@ -9,9 +9,12 @@ Initially, I studied robotics in Tim Robot UI (a university-level robotic club i
 I gratefully acknowledge the teaching of my supervisors, seniors, and teammates in Tim Robot UI and elsewhere. <br />
 See me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [some robots](https://photos.app.goo.gl/soMObj1VDShBW1sL2)
 
+## Robots
+* [Cozmo](https://www.youtube.com/watch?time_continue=17&v=ldi1NCpe2Aw)
+
 ## Inspiring
-* [Loyal seniors](https://www.youtube.com/watch?v=qMgGqHo8nsg) # goto 50:00
-* [Cozmo robot](https://www.youtube.com/watch?time_continue=17&v=ldi1NCpe2Aw)
+* [Loyal seniors (goto 50:00)](https://www.youtube.com/watch?v=qMgGqHo8nsg)
+* [Andrew thanks MLclass students (goto 02:30)](https://www.youtube.com/watch?v=Qz41Q89cHGM&list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP&index=107)
 * [Peter and Sebastian advice](https://www.youtube.com/watch?v=Y6LF-_-pMgI)
   * the best way to learn is to solve problems (goto 06:30)
 
