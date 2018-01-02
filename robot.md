@@ -11,11 +11,11 @@ See me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [som
 
 ## Inspiring
 * [Loyal seniors](https://www.youtube.com/watch?v=qMgGqHo8nsg) # goto 50:00
+* [Cozmo robot](https://www.youtube.com/watch?time_continue=17&v=ldi1NCpe2Aw)
 * [Peter and Sebastian advice](https://www.youtube.com/watch?v=Y6LF-_-pMgI)
   * the best way to learn is to solve problems (goto 06:30)
 
 ## Notes
 * [Printscreen](https://photos.app.goo.gl/p2xnILiK5HJ1l4S52)
 * [Talknote](https://github.com/tttor/talk)
-* [AI vs Control, by Sebastian](https://www.youtube.com/watch?v=XF_ACsJiz64) (goto 09:00)
-  * the difference is vanishing
+* [diff(ai,control) is vanishing, by Sebastian (goto 09:00)](https://www.youtube.com/watch?v=XF_ACsJiz64)
