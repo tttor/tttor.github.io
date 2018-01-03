@@ -17,6 +17,7 @@ See me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [som
   * [the best way to learn is to solve problems (goto 06:30)](https://www.youtube.com/watch?v=Y6LF-_-pMgI)
 * [Sci-Hub: to remove the barriers in the way of science](https://en.wikipedia.org/wiki/Sci-Hub)
 * [Cozmo robot](https://www.youtube.com/watch?time_continue=17&v=ldi1NCpe2Aw)
+* [I, Robot 2014 movie](https://en.wikipedia.org/wiki/I,_Robot_(film))
 
 ### Notes
 * [Printscreen](https://photos.app.goo.gl/p2xnILiK5HJ1l4S52)
