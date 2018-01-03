@@ -7,7 +7,7 @@ layout: default
 
 ## [Quran](https://quran.com/)
 * [Juz' 30 - Recited by Mishari Rashid Alafasy](https://www.youtube.com/watch?v=HK8b1CUxyhw)
-* [Quran Weekly, Reminders from Juz (1-30) - Nouman Ali Khan](https://www.youtube.com/playlist?list=PLFP6-6Ao4FMm5FnIT9QvstEmhWNugJlNO), [my note](https://github.com/tttor/islam/blob/master/quran/quran_weekly_nak.md)
+* [Quran Weekly, Reminders from Juz (1-30) - Nouman Ali Khan](https://www.youtube.com/playlist?list=PLFP6-6Ao4FMm5FnIT9QvstEmhWNugJlNO), [notes](https://github.com/tttor/islam/blob/master/quran/quran_weekly_nak.md)
 
 ## [Sunnah](https://sunnah.com/)
 * [The superiority of a person who sleeps with ablution](https://sunnah.com/bukhari/4/114)
