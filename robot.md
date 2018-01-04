@@ -20,6 +20,7 @@ See me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [som
 * [I, Robot 2004 movie](https://en.wikipedia.org/wiki/I,_Robot_(film))
 
 ### Notes
+* [RL foundation](https://github.com/tttor/rl-foundation)
 * [Printscreen](https://photos.app.goo.gl/p2xnILiK5HJ1l4S52)
-* [Talknote](https://github.com/tttor/talk)
-* [diff(ai,control) is vanishing, by Sebastian (goto 09:00)](https://www.youtube.com/watch?v=XF_ACsJiz64)
+* [Talk](https://github.com/tttor/talk)
+* [Diff(ai,control) is **vanishing**, by Sebastian (goto 09:00)](https://www.youtube.com/watch?v=XF_ACsJiz64)
