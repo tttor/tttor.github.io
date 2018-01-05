@@ -15,9 +15,9 @@ See me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [som
 * [Nuts and Bolts of Applying Deep Learning (Andrew Ng)](https://www.youtube.com/watch?v=F1ka6a13S9I&feature=share)
 * PeterAndSebastian's advice:
   * [the best way to learn is to solve problems (goto 06:30)](https://www.youtube.com/watch?v=Y6LF-_-pMgI)
-* [Sci-Hub: to remove the barriers in the way of science](https://en.wikipedia.org/wiki/Sci-Hub)
+* To remove the barriers in the way of science: [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub), [LibGen](https://en.wikipedia.org/wiki/Library_Genesis)
 * [Cozmo robot](https://www.youtube.com/watch?time_continue=17&v=ldi1NCpe2Aw)
-* [I, Robot 2004 movie](https://en.wikipedia.org/wiki/I,_Robot_(film))
+* Movies: [I, Robot](https://en.wikipedia.org/wiki/I,_Robot_(film)), [The Phd Movie](https://phdmovie.com/)
 
 ### Notes
 * [RL foundation](https://github.com/tttor/rl-foundation)
