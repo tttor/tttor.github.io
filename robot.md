@@ -16,6 +16,8 @@ See me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [som
 * PeterAndSebastian's advice:
   * [the best way to learn is to solve problems (goto 06:30)](https://www.youtube.com/watch?v=Y6LF-_-pMgI)
 * To remove the barriers in the way of science: [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub), [LibGen](https://en.wikipedia.org/wiki/Library_Genesis)
+* [Suumo engineers a house](https://www.facebook.com/adobomagazine/videos/10154217936341758/?hc_ref=ARQPbYFzKwLiSCy2j41DfWU34THIdw_-cf_wfakDndSMSECDuX_YcKY8Ep6KPKttqdw)
+* [BBC Horizon - s2008e17 - Wheres My Robot](https://ok.ru/video/281973623525)
 * [Cozmo robot](https://www.youtube.com/watch?time_continue=17&v=ldi1NCpe2Aw)
 * Movies: [I, Robot](https://en.wikipedia.org/wiki/I,_Robot_(film)), [The Phd Movie](https://phdmovie.com/)
 
