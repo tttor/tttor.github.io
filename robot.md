@@ -18,8 +18,9 @@ See me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [som
 * PeterAndSebastian's advice:
   * [the best way to learn is to solve problems (goto 06:30)](https://www.youtube.com/watch?v=Y6LF-_-pMgI)
   * [Diff(ai,control) is **vanishing**, by Sebastian (goto 09:00)](https://www.youtube.com/watch?v=XF_ACsJiz64)
-* Hardwork:
+* Smart and hard work:
   * [Loyal seniors (goto 50:00)](https://www.youtube.com/watch?v=qMgGqHo8nsg)
+  * [NASA Reacts To Mars Curiosity Rover Landing (goto 3:00)](https://www.youtube.com/watch?v=svUJdzMHwmM)
   * [Suumo engineers a house](https://www.facebook.com/adobomagazine/videos/10154217936341758/?hc_ref=ARQPbYFzKwLiSCy2j41DfWU34THIdw_-cf_wfakDndSMSECDuX_YcKY8Ep6KPKttqdw)
 * [Andrew thanks MLclass students (goto 02:30)](https://www.youtube.com/watch?v=Qz41Q89cHGM&list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP&index=107)
 * [Steve's connecting the dots](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
