@@ -23,5 +23,5 @@ See me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [som
 * [Nuts and Bolts of Applying Deep Learning (Andrew Ng)](https://www.youtube.com/watch?v=F1ka6a13S9I&feature=share)
 * To remove the barriers in the way of science: [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub), [LibGen](https://en.wikipedia.org/wiki/Library_Genesis)
 * [Suumo engineers a house](https://www.facebook.com/adobomagazine/videos/10154217936341758/?hc_ref=ARQPbYFzKwLiSCy2j41DfWU34THIdw_-cf_wfakDndSMSECDuX_YcKY8Ep6KPKttqdw)
-* Robots: [BBC Horizon - s2008e17 - Wheres My Robot](https://ok.ru/video/281973623525), [Cozmo robot](https://www.youtube.com/watch?time_continue=17&v=ldi1NCpe2Aw)
+* Robots: [PR1 Robot Cleans a Room](https://www.youtube.com/watch?v=jJ4XtyMoxIA), [BBC Horizon - s2008e17 - Wheres My Robot](https://ok.ru/video/281973623525), [Cozmo robot](https://www.youtube.com/watch?time_continue=17&v=ldi1NCpe2Aw)
 * Movies: [I, Robot](https://en.wikipedia.org/wiki/I,_Robot_(film)), [The Phd Movie](https://phdmovie.com/)
