@@ -1,7 +1,7 @@
 ---
 title: "Islam"
 summary: "TODO"
-date: 2018-01-01
+date: 2018-01-07
 layout: default
 ---
 
@@ -17,7 +17,10 @@ layout: default
 ### Arabic
 * [Essentials of Quranic Arabic](http://kalamullah.com/essentials-of-arabic.html)
 
-### Lessons
+### Lesson
 * [Standardisasi, Spesialisasi, Sinergi by Topan Setiadipura](https://www.youtube.com/watch?v=C7IOZW7a8pg&feature=share)
 * [You Only Have One Shot At Life!](https://www.youtube.com/watch?v=v6wPnqxyiRo)
 * [Lives of the 4 Imams](https://www.youtube.com/playlist?list=PL2F529982E0608204)
+
+### Raising a family
+Goto [Family](http://tttor.github.io/family)
