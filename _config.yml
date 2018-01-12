@@ -11,6 +11,8 @@ menu:
    url: /islam
  - page: Family
    url: /family
+ - page: Misc
+   url: /misc
  - page: Links
    url: /link
 mathjax: false
