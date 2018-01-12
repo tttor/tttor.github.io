@@ -8,7 +8,7 @@ layout: default
 Greetings! I am Vektor. <br />
 I make autonomous robots **fully** autonomous.
 
-I _deeply_ believe that reinforcement learning (RL) is one _key_ element of _fully_ autonomous robots. <br />
+I _deeply_ believe that Bayesian reinforcement learning (RL) is one _key_ element of _fully_ autonomous robots. <br />
 Here, I refer to the _integrated_ model-free _and_ model-based RL, where the latter consists of model learning and planning. <br />
 Learning and planning (under uncertainty) are two fundamental challenges in artificial intelligence.
 
