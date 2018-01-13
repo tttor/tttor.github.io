@@ -12,8 +12,7 @@ See me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [som
 ### Notes
 * [RL foundation](https://github.com/tttor/rl-foundation)
 * [Printscreen](https://photos.app.goo.gl/p2xnILiK5HJ1l4S52)
-* [Talk](https://github.com/tttor/talk)
-* [Tool](https://github.com/tttor/tool)
+* [Talk](https://github.com/tttor/talk), [Tool](https://github.com/tttor/tool)
 
 ### Inspiring
 * PeterAndSebastian's advice:
@@ -24,6 +23,7 @@ See me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [som
   * [NASA Reacts To Mars Curiosity Rover Landing (goto 3:00)](https://www.youtube.com/watch?v=svUJdzMHwmM)
   * [Suumo engineers a house](https://www.facebook.com/adobomagazine/videos/10154217936341758/?hc_ref=ARQPbYFzKwLiSCy2j41DfWU34THIdw_-cf_wfakDndSMSECDuX_YcKY8Ep6KPKttqdw)
 * [Andrew thanks MLclass students (goto 02:30)](https://www.youtube.com/watch?v=Qz41Q89cHGM&list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP&index=107)
+* [Andrew Ng on Quora: AI, Cars, Careers and More](https://www.quora.com/session/Andrew-Ng/1)
 * [Steve's connecting the dots](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
 * [Nuts and Bolts of Applying Deep Learning (Andrew Ng)](https://www.youtube.com/watch?v=F1ka6a13S9I&feature=share)
 * To remove the barriers in the way of science: [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub), [LibGen](https://en.wikipedia.org/wiki/Library_Genesis)
