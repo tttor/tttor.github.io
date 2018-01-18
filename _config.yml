@@ -13,8 +13,6 @@ menu:
    url: /family
  - page: Misc
    url: /misc
- - page: Links
-   url: /link
 mathjax: false
 markdown: kramdown
 encoding: utf-8
