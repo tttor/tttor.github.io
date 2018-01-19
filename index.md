@@ -24,4 +24,4 @@ I proudly speak [Javanese](https://en.wikipedia.org/wiki/Javanese_language) and 
 I also speak English and (struggle for) [Arabic](https://en.wikipedia.org/wiki/Arabic).
 
 Me on the net: <br/>
-[Github](https://github.com/tttor), [GoogleScholar](https://scholar.google.com/citations?user=AYOBcPYAAAAJ), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56595210300), [ROSAnswers](https://answers.ros.org/users/1552/tor/), ...
+[Github](https://github.com/tttor), [GoogleScholar](https://scholar.google.com/citations?user=AYOBcPYAAAAJ), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56595210300), [ROSAnswers](https://answers.ros.org/users/1552/tor/).
