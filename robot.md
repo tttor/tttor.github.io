@@ -11,8 +11,7 @@ See me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [som
 
 ### Notes
 * [RL foundation](https://github.com/tttor/rl-foundation)
-* [Printscreen](https://photos.app.goo.gl/p2xnILiK5HJ1l4S52)
-* [Talk](https://github.com/tttor/talk), [Tool](https://github.com/tttor/tool)
+* [Talk](https://github.com/tttor/talk), [Tool](https://github.com/tttor/tool), [Printscreen](https://photos.app.goo.gl/p2xnILiK5HJ1l4S52)
 
 ### Advices:
 * Andrew Ng:
