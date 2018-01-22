@@ -21,6 +21,7 @@ layout: default
 * [Standardisasi, Spesialisasi, Sinergi by Topan Setiadipura](https://www.youtube.com/watch?v=C7IOZW7a8pg&feature=share)
 * [You Only Have One Shot At Life!](https://www.youtube.com/watch?v=v6wPnqxyiRo)
 * [Lives of the 4 Imams](https://www.youtube.com/playlist?list=PL2F529982E0608204)
+* Goto [lesson](https://github.com/tttor/islam/tree/master/lesson)
 
 ## Raising a family
 Goto [Family](http://tttor.github.io/family)
