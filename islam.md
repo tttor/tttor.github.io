@@ -27,3 +27,4 @@ Goto [Family](http://tttor.github.io/family)
 
 ## Misc:
 * Awards: [King Faisal International Prize](http://kfip.org/en)
+* Channels: [YufidTV](https://www.youtube.com/channel/UCX-4mrOc5r691SzDhHtkOgw), [UmmatTV](https://www.youtube.com/channel/UChq7NDxIkiwKCFRt6Qmn-Bw)
