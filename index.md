@@ -10,7 +10,7 @@ I make autonomous robots _fully_ autonomous.
 
 I believe that deeply bayesian reinforcement learning (RL) is one _key_ element of _fully_ autonomous robots. <br />
 Here, I refer to the _integrated_ model-free _and_ model-based RL, where the latter consists of (model)learning and planning. <br />
-Sequential decision making under uncertainty is one of fundamental challenges in artificial intelligence.
+Sequential decision making under uncertainty (as in POMDPs) is one of fundamental challenges in artificial intelligence.
 
 I am a PhD student in the [Robot Design Lab](http://robotics.itee.uq.edu.au), [School of ITEE](http://www.itee.uq.edu.au/), [Univ. of Queensland (UQ)](https://www.uq.edu.au/). <br />
 My _dear_ supervisor is [Hanna Kurniawati](http://robotics.itee.uq.edu.au/~hannakur/dokuwiki/doku.php?id=wiki:welcome). <br />
