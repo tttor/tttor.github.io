@@ -11,3 +11,4 @@ layout: default
 * [Polos](https://www.facebook.com/ary.odan/videos/1038625656192187/?hc_ref=ARQx_ckzgxi2UG4nECXqXNc9aJg38N7H9cq7C_F8H-AH0vrW_Brmwai2glEDvN7XfeY)
 * [Robots Bring Couple Together](https://spectrum.ieee.org/automaton/robotics/humanoids/engaging-with-robots)
 * [Fat burning](https://www.facebook.com/jordanyeohfitness/videos/1082872145070432/?hc_ref=ARSu5k5gY85jG71GXanDII4Ag4UxAQa_NSW8mdxZbW7PiLmQlHZaKlkVEPfE_uZyGIQ)
+* [Printscreen2](https://photos.app.goo.gl/E9tocYYi2CQZsHER2)
