@@ -9,11 +9,11 @@ Initially, I studied robotics in Tim Robot UI (a university-level robotic club i
 I gratefully acknowledge the teaching of my supervisors, seniors, and teammates in Tim Robot UI and elsewhere. <br />
 See me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [some robots](https://photos.app.goo.gl/soMObj1VDShBW1sL2)
 
-### Notes
+## Notes
 * [RL foundation](https://github.com/tttor/rl-foundation)
 * [Talk](https://github.com/tttor/talk), [Tool](https://github.com/tttor/tool), [Printscreen](https://photos.app.goo.gl/p2xnILiK5HJ1l4S52)
 
-### Advices:
+## Advices:
 * Andrew Ng:
   * [on Quora](https://www.quora.com/profile/Andrew-Ng), esp. [AI, Cars, Careers and More](https://www.quora.com/session/Andrew-Ng/1)
   * [Nuts and Bolts of Applying Deep Learning](https://www.youtube.com/watch?v=F1ka6a13S9I&feature=share)
@@ -21,7 +21,7 @@ See me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [som
   * [the best way to learn is to solve problems (goto 06:30)](https://www.youtube.com/watch?v=Y6LF-_-pMgI)
   * [Diff(ai,control) is **vanishing**, by Sebastian (goto 09:00)](https://www.youtube.com/watch?v=XF_ACsJiz64)
   
-### Inspiring
+## Inspiring
 * Smart and hard work:
   * [Loyal seniors (goto 50:00)](https://www.youtube.com/watch?v=qMgGqHo8nsg)
   * [NASA Reacts To Mars Curiosity Rover Landing (goto 3:00)](https://www.youtube.com/watch?v=svUJdzMHwmM)
@@ -32,3 +32,7 @@ See me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [som
 * Competitions: [DARPA Robotics Challenge](https://spectrum.ieee.org/automaton/robotics/humanoids/drc-finals-course)
 * Robots: [PR1 Robot Cleans a Room](https://www.youtube.com/watch?v=jJ4XtyMoxIA), [BBC Horizon - s2008e17 - Wheres My Robot](https://ok.ru/video/281973623525), [Cozmo robot](https://www.youtube.com/watch?time_continue=17&v=ldi1NCpe2Aw), [Preaten C128 - Fire-Fighting Robot](https://www.youtube.com/watch?v=HcHZ694psGw)
 * Movies: [I, Robot](https://en.wikipedia.org/wiki/I,_Robot_(film)), [The Phd Movie](https://phdmovie.com/), [AlphaGo](https://www.alphagomovie.com/), [The Imitation Game](https://en.wikipedia.org/wiki/The_Imitation_Game), [A Beautiful Mind](http://www.imdb.com/title/tt0268978/), [Pirates of Silicon Valley](https://en.wikipedia.org/wiki/Pirates_of_Silicon_Valley), [Star Wars: The Force Awakens](https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens)
+* Stories: [A Survival Guide to a PhD, A. Karpathy](http://karpathy.github.io/2016/09/07/phd/)
+
+## Ref
+* Writing: [J. Widom](https://cs.stanford.edu/people/widom/paper-writing.html)
