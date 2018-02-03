@@ -12,7 +12,7 @@ layout: default
 * Misc: [Anak-Anak Tahfiz Madani Widang Tuban](https://www.youtube.com/watch?v=-WW2YCXnXRo), [Koran by Heart](https://www.youtube.com/watch?v=ptHdmw57rzM)
 
 ## [Sunnah](https://sunnah.com/)
-* [Shahih al-Bukhari](https://sunnah.com/bukhari): [notes](https://github.com/tttor/islam/blob/master/sunnah/shahih_bukhari.md)
+* [Shahih al-Bukhari](https://sunnah.com/bukhari): [notes](https://github.com/tttor/islam/tree/master/sunnah/bukhari)
 
 ## Arabic
 * [Essentials of Quranic Arabic](http://kalamullah.com/essentials-of-arabic.html)
