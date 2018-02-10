@@ -31,8 +31,18 @@ See me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [som
 * To remove the barriers in the way of science: [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub), [LibGen](https://en.wikipedia.org/wiki/Library_Genesis), [Tor: Powering Digital Resistance](https://www.torproject.org/)
 * Competitions: [DARPA Robotics Challenge](https://spectrum.ieee.org/automaton/robotics/humanoids/drc-finals-course)
 * Robots: [PR1 Robot Cleans a Room](https://www.youtube.com/watch?v=jJ4XtyMoxIA), [BBC Horizon - s2008e17 - Wheres My Robot](https://ok.ru/video/281973623525), [Cozmo robot](https://www.youtube.com/watch?time_continue=17&v=ldi1NCpe2Aw), [Preaten C128 - Fire-Fighting Robot](https://www.youtube.com/watch?v=HcHZ694psGw)
-* Movies: [I, Robot](https://en.wikipedia.org/wiki/I,_Robot_(film)), [The Phd Movie](https://phdmovie.com/), [AlphaGo](https://www.alphagomovie.com/), [The Imitation Game](https://en.wikipedia.org/wiki/The_Imitation_Game), [A Beautiful Mind](http://www.imdb.com/title/tt0268978/), [Pirates of Silicon Valley](https://en.wikipedia.org/wiki/Pirates_of_Silicon_Valley), [Star Wars: The Force Awakens](https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens)
-* Stories: [A Survival Guide to a PhD, A. Karpathy](http://karpathy.github.io/2016/09/07/phd/)
+* Movies: 
+[I, Robot](https://en.wikipedia.org/wiki/I,_Robot_(film)), 
+[The Phd Movie](https://phdmovie.com/), 
+[AlphaGo](https://www.alphagomovie.com/), 
+[The Imitation Game](https://en.wikipedia.org/wiki/The_Imitation_Game), 
+[A Beautiful Mind](http://www.imdb.com/title/tt0268978/), 
+[Pirates of Silicon Valley](https://en.wikipedia.org/wiki/Pirates_of_Silicon_Valley), 
+[Star Wars: The Force Awakens](https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens)
+* Stories: 
+[A. Karpathy: A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/),
+[Richard Hamming:You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
 ## Ref
-* Writing: [J. Widom](https://cs.stanford.edu/people/widom/paper-writing.html)
+* Writing: 
+[J. Widom](https://cs.stanford.edu/people/widom/paper-writing.html)
