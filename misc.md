@@ -6,15 +6,15 @@ layout: default
 ---
 
 * Javanese:
-[Peter Pete speaks Javanese](https://www.youtube.com/watch?v=Ha8RDd5LIxg&feature=share),
-[Sri Ngilang - "The Disappearance of Sri" - A play in Javanese](https://www.youtube.com/watch?v=uTL6BMG8JZ0)
+  [Peter Pete speaks Javanese](https://www.youtube.com/watch?v=Ha8RDd5LIxg&feature=share),
+  [Sri Ngilang - "The Disappearance of Sri" - A play in Javanese](https://www.youtube.com/watch?v=uTL6BMG8JZ0)
 * Funny:
-[Moving a house together](https://www.facebook.com/eka.cana/videos/1125285464160315/?hc_ref=ARQE3KWMdji3Gw3OSwsBzpocPKzaqEk94WAuIFXx0CVU-kAjcmAEwA-33j1VuT1wBU4),
-[Polos](https://www.facebook.com/ary.odan/videos/1038625656192187/?hc_ref=ARQx_ckzgxi2UG4nECXqXNc9aJg38N7H9cq7C_F8H-AH0vrW_Brmwai2glEDvN7XfeY)
+  [Moving a house together](https://www.facebook.com/eka.cana/videos/1125285464160315/?hc_ref=ARQE3KWMdji3Gw3OSwsBzpocPKzaqEk94WAuIFXx0CVU-kAjcmAEwA-33j1VuT1wBU4),
+  [Polos](https://www.facebook.com/ary.odan/videos/1038625656192187/?hc_ref=ARQx_ckzgxi2UG4nECXqXNc9aJg38N7H9cq7C_F8H-AH0vrW_Brmwai2glEDvN7XfeY)
 * Inspiration:
-[Robots Bring Couple Together](https://spectrum.ieee.org/automaton/robotics/humanoids/engaging-with-robots),
-BBC Documentary - Make Me a German,
-[BKPM : Gita wirjawan and Charlie Rose](https://www.youtube.com/watch?v=PGIveqTCJm0)
+  [Robots Bring Couple Together](https://spectrum.ieee.org/automaton/robotics/humanoids/engaging-with-robots),
+  BBC Documentary - Make Me a German,
+  [BKPM : Gita wirjawan and Charlie Rose](https://www.youtube.com/watch?v=PGIveqTCJm0)
 * Fitness: 
-[Fat burning](https://www.facebook.com/jordanyeohfitness/videos/1082872145070432/?hc_ref=ARSu5k5gY85jG71GXanDII4Ag4UxAQa_NSW8mdxZbW7PiLmQlHZaKlkVEPfE_uZyGIQ)
+  [Fat burning](https://www.facebook.com/jordanyeohfitness/videos/1082872145070432/?hc_ref=ARSu5k5gY85jG71GXanDII4Ag4UxAQa_NSW8mdxZbW7PiLmQlHZaKlkVEPfE_uZyGIQ)
 * [Printscreen2](https://photos.app.goo.gl/E9tocYYi2CQZsHER2)
