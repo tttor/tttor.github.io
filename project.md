@@ -33,11 +33,11 @@ TODO
 * should have merged to [ROS AMCL package](http://wiki.ros.org/amcl), available first in ROS Electric (released Aug 2011)
 * should have bought the complete book of [`Prob Robotics`](https://photos.app.goo.gl/7q2gcof5z67CO5dz2) earlier :)
 
-## Fire-fighting robots at Tim Robot UI (2007 - 2011, 2014)
-### Artifact: 
-[repo](https://github.com/tttor/trui-bot-prj), [video](https://www.youtube.com/watch?v=HcHZ694psGw&t=9s)
-### In retrospect: 
-TODO
+* Fire-fighting robots at Tim Robot UI (2007 - 2011, 2014)
+  * Artifact: 
+    [repo](https://github.com/tttor/trui-bot-prj), [video](https://www.youtube.com/watch?v=HcHZ694psGw&t=9s)
+  * In retrospect: 
+    TODO
 
-## School-age (1996 - 2006)
-Some math and physics competitions.
+* School-age (1996 - 2006)
+  * Some math and physics competitions.
