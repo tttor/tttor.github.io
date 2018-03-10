@@ -5,21 +5,21 @@ date: 2018-01-07
 layout: default
 ---
 
-* Plant diseases: classification and monitoring
+* Classification and monitoring of plant diseases (2017)
   * Artifact:
     TODO
   * In retrospect:
     TODO
 
-* Ijah: composing Indonesian herbal medicines
+* Ijah: composing Indonesian herbal medicines (2015 - 2016)
   * Artifact:
-    TODO
+    [repo](https://github.com/tttor/csipb-jamu-prj)
   * In retrospect:
     TODO
 
 * Semantic image segmentation (2014)
   * Artifact:
-    TODO
+    [repo](https://github.com/tttor/lab1231-sun-prj)
   * In retrospect:
     TODO
 
@@ -48,5 +48,8 @@ layout: default
   * In retrospect:
     TODO
 
-* School-age (1996 - 2006)
-  * Some math and physics competitions.
+* School math and physics competitions (1996 - 2006)
+  * Artifact:
+    TODO
+  * In retrospect:
+    TODO
