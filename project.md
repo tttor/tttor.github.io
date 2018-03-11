@@ -7,7 +7,7 @@ layout: default
 
 * Classification and monitoring of plant diseases (2017)
   * Artifact:
-    TODO
+    [(private)repo](https://bitbucket.org/tttor/iotarara)
   * In retrospect:
     TODO
 
