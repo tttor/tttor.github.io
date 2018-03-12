@@ -16,8 +16,10 @@ I am a PhD student in the [Robot Design Lab](http://robotics.itee.uq.edu.au), [S
 My _dear_ supervisor is [Hanna Kurniawati](http://robotics.itee.uq.edu.au/~hannakur/dokuwiki/doku.php?id=wiki:welcome). <br />
 I gratefully acknowledge the financial support of the UQ.
 
-I graduated in electrical eng (control stream, bachelor) from the [Dept of Electrical Eng](http://www.ee.ui.ac.id), [University of Indonesia](http://www.ui.ac.id/en/) and <br />
-in computational intelligence (master) from the Dept of Computational Intelligence (now part of [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04.html)), [Tokyo Institute of Technology](https://www.titech.ac.jp/english/).
+I graduated in
+electrical eng (control eng, b.eng) from the [Dept of Electrical Eng](http://www.ee.ui.ac.id), [University of Indonesia](http://www.ui.ac.id/en/) and <br />
+computational intelligence (m.eng) from the Dept of Computational Intelligence (now part of [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04.html)), [Tokyo Institute of Technology](https://www.titech.ac.jp/english/). <br />
+I gratefully acknowledge the financial support of the Tokyo Tech and [JASSO](http://www.jasso.go.jp/en/).
 
 I am originally from [Kutoarjo](https://geographic.org/geographic_names/name.php?uni=-3713855&fid=2393&c=indonesia). <br />
 I proudly speak [Javanese](https://en.wikipedia.org/wiki/Javanese_language) and [Indonesian](https://en.wikipedia.org/wiki/Indonesian_language) as my native languages.
