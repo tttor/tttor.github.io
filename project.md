@@ -5,6 +5,11 @@ date: 2018-01-07
 layout: default
 ---
 
+* Robust robot manipulation under uncertainty (2018 - present)
+  * Artifact:
+    [(private)repo](https://github.com/RoboticsDesignLab/popcorn), 
+    [(private)repo2](https://bitbucket.org/tttor/grasper)
+      
 * Classification and monitoring of plant diseases (2017)
   * Artifact:
     [(private)repo](https://bitbucket.org/tttor/iotarara)
