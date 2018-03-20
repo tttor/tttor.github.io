@@ -30,6 +30,7 @@ See me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [som
   * [Steve's connecting the dots](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
   * [Andrew thanks MLclass students (goto 02:30)](https://www.youtube.com/watch?v=Qz41Q89cHGM&list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP&index=107)
 * To remove the barriers in the way of science: 
+[OpenSource](https://opensource.guide/),
 [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub), 
 [LibGen](https://en.wikipedia.org/wiki/Library_Genesis), 
 [Tor: Powering Digital Resistance](https://www.torproject.org/)
