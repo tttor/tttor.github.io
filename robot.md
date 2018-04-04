@@ -12,16 +12,7 @@ See me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [som
 ## Notes
 * [RL foundation](https://github.com/tttor/rl-foundation)
 * [Talk](https://github.com/tttor/talk), [Tool](https://github.com/tttor/tool), [Printscreen](https://photos.app.goo.gl/p2xnILiK5HJ1l4S52)
-
-## Advices:
-* Andrew Ng:
-  * [on Quora](https://www.quora.com/profile/Andrew-Ng), esp. [AI, Cars, Careers and More](https://www.quora.com/session/Andrew-Ng/1)
-  * [Nuts and Bolts of Applying Deep Learning](https://www.youtube.com/watch?v=F1ka6a13S9I&feature=share)
-* Sebastian Thrun:
-  * [the best way to learn is to solve problems (goto 06:30)](https://www.youtube.com/watch?v=Y6LF-_-pMgI)
-  * [Diff(ai,control) is **vanishing**, by Sebastian (goto 09:00)](https://www.youtube.com/watch?v=XF_ACsJiz64)
-  * [Self-driving car, Google Glass, and now Udacity](https://www.youtube.com/watch?v=lKgEnH2nBUc)
-  
+ 
 ## Inspiring
 * Smart and hard work:
   * [Loyal seniors (goto 50:00)](https://www.youtube.com/watch?v=qMgGqHo8nsg)
