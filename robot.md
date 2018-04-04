@@ -44,7 +44,3 @@ See me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [som
 * Stories: 
 [A. Karpathy: A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/),
 [Richard Hamming:You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
-
-## Ref
-* Writing: 
-[J. Widom](https://cs.stanford.edu/people/widom/paper-writing.html)
