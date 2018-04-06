@@ -30,7 +30,8 @@ Goto: [Family](http://tttor.github.io/family)
 ## Misc:
 * People:
   [Irwandi Jaswir](http://kingfaisalprize.org/professor-irwandi-jaswir/), 
-  [Umar Septono](https://id.wikipedia.org/wiki/Umar_Septono)
+  [Umar Septono](https://id.wikipedia.org/wiki/Umar_Septono),
+  [Yunahar Ilyas](http://www.muhammadiyah.or.id/id/content-210-det-prof-dr-h-yunahar-ilyas-lc-mag.html)
 * Awards: 
   [King Faisal International Prize](http://kfip.org/en)
 * Channels: 
