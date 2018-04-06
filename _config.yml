@@ -9,10 +9,10 @@ menu:
    url: /project
  - page: Islam
    url: /islam
- - page: Family
-   url: /family
  - page: Indonesia+Jawa
    url: /idjv
+ - page: Family
+   url: /family
 mathjax: false
 markdown: kramdown
 encoding: utf-8
