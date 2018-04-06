@@ -11,8 +11,8 @@ menu:
    url: /islam
  - page: Family
    url: /family
- - page: Misc
-   url: /misc
+ - page: Indonesia+Jawa
+   url: /idjv
 mathjax: false
 markdown: kramdown
 encoding: utf-8
