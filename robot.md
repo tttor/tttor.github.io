@@ -10,7 +10,8 @@ I gratefully acknowledge the teaching of my supervisors, seniors, and teammates 
 See me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [some robots](https://photos.app.goo.gl/soMObj1VDShBW1sL2)
 
 ## Notes
-* [RL foundation](https://github.com/tttor/rl-foundation)
+* [RL foundation](https://github.com/tttor/rl-foundation),
+  [DL foundation](https://github.com/tttor/dl-foundation)
 * [Talk](https://github.com/tttor/talk), [Tool](https://github.com/tttor/tool), [Printscreen](https://photos.app.goo.gl/p2xnILiK5HJ1l4S52)
 
 ## Inspiring
