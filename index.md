@@ -8,9 +8,8 @@ layout: default
 Greetings! I am Vektor. <br />
 I make autonomous robots _fully_ autonomous.
 
-I believe that hierarchical, bayesian, deep reinforcement learning (RL) is one _key_ element of _fully_ autonomous robots. <br />
-Here, I refer to the _integrated_ actor-critic model-free _and_ model-based RL, where the latter consists of (model)learning and planning. <br />
-Those are fundamental challenges in artificial intelligence. <br />
+I believe that reinforcement learning (RL) is one _key_ element of _fully_ autonomous robots. <br />
+Here, I refer to RL that is hierarchical, bayesian, deep, actor-critic model-free, model-based, offline, online, ... :) <br />
 See [my note](https://github.com/tttor/rl-foundation) for some foundation.
 
 I am a PhD student in the [Robot Design Lab](http://robotics.itee.uq.edu.au), [School of ITEE](http://www.itee.uq.edu.au/), [Univ. of Queensland (UQ)](https://www.uq.edu.au/). <br />
