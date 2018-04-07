@@ -14,7 +14,7 @@ See [my note](https://github.com/tttor/rl-foundation) for some foundation.
 
 I am a PhD student in the [Robot Design Lab](http://robotics.itee.uq.edu.au), [School of ITEE](http://www.itee.uq.edu.au/), [Univ. of Queensland (UQ)](https://www.uq.edu.au/). <br />
 My _dear_ supervisor is [Hanna Kurniawati](http://robotics.itee.uq.edu.au/~hannakur/dokuwiki/doku.php?id=wiki:welcome). <br />
-I gratefully acknowledge the financial support of [UQ]((https://www.uq.edu.au/).
+I gratefully acknowledge the financial support of [UQ](https://www.uq.edu.au/).
 
 I graduated in
 electrical eng (control eng, b.eng) from the [Dept of Electrical Eng](http://www.ee.ui.ac.id), [University of Indonesia](http://www.ui.ac.id/en/) and <br />
