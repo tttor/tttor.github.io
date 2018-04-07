@@ -47,3 +47,6 @@ See me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [som
   [Richard Hamming:You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html),
   [Robots Bring Couple Together](https://spectrum.ieee.org/automaton/robotics/humanoids/engaging-with-robots),
   [BBC Documentary - Make Me a German, 2016](https://www.youtube.com/watch?v=ls-4jDyieVs)
+* Career:
+  [GECD career devel handbook](https://gecd.mit.edu/sites/default/files/about/files/career-handbook.pdf),
+  
