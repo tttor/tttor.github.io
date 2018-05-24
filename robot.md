@@ -28,7 +28,9 @@ See me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [som
   [Tor: Powering Digital Resistance](https://www.torproject.org/)
 * Competitions:
   [ABU Robocon](https://en.wikipedia.org/wiki/ABU_Robocon),
-  [DARPA Robotics Challenge](https://spectrum.ieee.org/automaton/robotics/humanoids/drc-finals-course)
+  [DARPA Robotics Challenge](https://spectrum.ieee.org/automaton/robotics/humanoids/drc-finals-course),
+  KUKA Innovation Award,
+  ...
 * Robots:
   [PR1 Robot Cleans a Room](https://www.youtube.com/watch?v=jJ4XtyMoxIA),
   [BBC Horizon - s2008e17 - Wheres My Robot](https://ok.ru/video/281973623525),
