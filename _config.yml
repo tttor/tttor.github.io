@@ -3,16 +3,12 @@ description: tor homepage description
 menu:
  - page: Home
    url: /index
- - page: Robots
+ - page: Robot
    url: /robot
- - page: Projects
+ - page: Project
    url: /project
- - page: Islam
-   url: /islam
- - page: Indonesia+Java
-   url: /idjv
- - page: Family
-   url: /family
+ - page: Personal
+   url: /personal
 mathjax: false
 markdown: kramdown
 encoding: utf-8
