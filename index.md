@@ -18,7 +18,7 @@ I gratefully acknowledge the financial support of [UQ](https://www.uq.edu.au/).
 
 I graduated in
 computational intelligence (m.eng) from the Dept of Computational Intelligence (now part of [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04.html)), [Tokyo Institute of Technology](https://www.titech.ac.jp/english/) and 
-electrical eng (control eng, b.eng) from the [Dept of Electrical Eng](http://www.ee.ui.ac.id), [University of Indonesia](http://www.ui.ac.id/en/).
+electrical eng (control eng, b.eng) from the [Dept of Electrical Eng](http://www.ee.ui.ac.id), [Univ. of Indonesia](http://www.ui.ac.id/en/).
 I gratefully acknowledge the financial support of [Tokyo Tech](https://www.titech.ac.jp/english/) and [JASSO](http://www.jasso.go.jp/en/).
 
 I am originally from [Kutoarjo](https://geographic.org/geographic_names/name.php?uni=-3713855&fid=2393&c=indonesia). <br />
