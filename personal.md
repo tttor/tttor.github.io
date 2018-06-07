@@ -6,7 +6,7 @@ layout: default
 ---
 
 ## Islam
-* https://github.com/tttor/islam
+* [https://github.com/tttor/islam](https://github.com/tttor/islam)
 
 ## Family
 I luckily got married to Ekaputri, a frequentist statistician. <br />
