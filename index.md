@@ -13,7 +13,9 @@ Here, I refer to RL that is hierarchical, bayesian, deep, actor-critic, model-fr
 See [my note](https://github.com/tttor/rl-foundation) for some foundation.
 
 I am a PhD student in the [Robot Design Lab](http://robotics.itee.uq.edu.au), [School of ITEE](http://www.itee.uq.edu.au/), [Univ. of Queensland (UQ)](https://www.uq.edu.au/). <br />
-My supervisor is [Hanna Kurniawati](http://robotics.itee.uq.edu.au/~hannakur/dokuwiki/doku.php?id=wiki:welcome). <br />
+I am supervised by 
+[Hanna Kurniawati](http://robotics.itee.uq.edu.au/~hannakur/dokuwiki/doku.php?id=wiki:welcome) and
+[Fred Roosta](https://people.smp.uq.edu.au/FredRoosta/). <br />
 
 I graduated in
 computational intelligence (m.eng) from the Dept of Computational Intelligence (now part of [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04.html)), [Tokyo Institute of Technology](https://www.titech.ac.jp/english/) and 
