@@ -13,7 +13,7 @@ layout: default
   * Artifact:
     [repo](https://github.com/tttor/csipb-jamu-prj)
 
-* Semantic image segmentation via Conditional Random Field and Structure SVM(2014)
+* Semantic image segmentation via Conditional Random Field and Structure SVM (2014)
   * Artifact:
     [repo](https://github.com/tttor/lab1231-sun-prj)
 
@@ -25,7 +25,7 @@ layout: default
   * Artifact:
     [repo](https://github.com/tttor/hiroken-ros-pkg), [paper](http://ieeexplore.ieee.org/document/7415160/)
 
-* Dynamic monte-carlo localization for tracked mobile robots(2009 - 2010)
+* Dynamic monte-carlo localization for tracked mobile robots (2009 - 2010)
   * Artifact:
     [undergrad-thesis](http://lib.ui.ac.id/file?file=digital/20249099-R031078.pdf)
   * In retrospect:
