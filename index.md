@@ -12,7 +12,7 @@ I believe that reinforcement learning (RL) is one _key_ element of _fully_ auton
 Here, I refer to RL that is hierarchical, bayesian, deep, actor-critic, model-free, model-based, offline, online, ... :) <br />
 See [my note](https://github.com/tttor/rl-foundation) for some foundation.
 
-I am a PhD student in the [Robot Design Lab](http://robotics.itee.uq.edu.au), [School of ITEE](http://www.itee.uq.edu.au/), [Univ. of Queensland (UQ)](https://www.uq.edu.au/). <br />
+I am a PhD student at the [Robot Design Lab](http://robotics.itee.uq.edu.au), [School of ITEE](http://www.itee.uq.edu.au/), [Univ. of Queensland (UQ)](https://www.uq.edu.au/). <br />
 I am supervised by 
 [Hanna Kurniawati](http://robotics.itee.uq.edu.au/~hannakur/dokuwiki/doku.php?id=wiki:welcome) and
 [Fred Roosta](https://people.smp.uq.edu.au/FredRoosta/). <br />
