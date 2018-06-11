@@ -9,13 +9,14 @@ Greetings! I am Vektor. <br />
 I make autonomous robots _progressively more_ autonomous.
 
 I believe that reinforcement learning (RL) is one _key_ element of _fully_ autonomous robots. <br />
-Here, I refer to RL that is hierarchical, bayesian, deep, actor-critic, model-free, model-based, offline, online, ... :) <br />
-See [my note](https://github.com/tttor/rl-foundation) for some foundation.
+Here, I refer to RL that is hierarchical, bayesian, deep, actor-critic, dyna (=modelFree + model-based), ... :) <br />
+For some foundation, please see [my note](https://github.com/tttor/rl-foundation).
 
 I am a PhD student at the [Robot Design Lab](http://robotics.itee.uq.edu.au), [School of ITEE](http://www.itee.uq.edu.au/), [Univ. of Queensland (UQ)](https://www.uq.edu.au/). <br />
 I am supervised by 
 [Hanna Kurniawati](http://robotics.itee.uq.edu.au/~hannakur/dokuwiki/doku.php?id=wiki:welcome) and
 [Fred Roosta](https://people.smp.uq.edu.au/FredRoosta/). <br />
+For now, I am interested in _planning with a learned model_.
 
 I graduated in
 computational intelligence (m.eng) from the Dept of Computational Intelligence (now part of [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04.html)), [Tokyo Institute of Technology](https://www.titech.ac.jp/english/) and 
