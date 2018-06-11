@@ -20,7 +20,7 @@ I am supervised by
 I graduated in
 computational intelligence (m.eng) from the Dept of Computational Intelligence (now part of [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04.html)), [Tokyo Institute of Technology](https://www.titech.ac.jp/english/) and 
 electrical eng (control eng, b.eng) from the [Dept of Electrical Eng](http://www.ee.ui.ac.id), [Univ. of Indonesia](http://www.ui.ac.id/en/).
-I gratefully acknowledge the financial support of [Tokyo Tech](https://www.titech.ac.jp/english/), [JASSO](http://www.jasso.go.jp/en/) and [UQ](https://www.uq.edu.au/).
+I gratefully acknowledge the financial support of [JASSO](http://www.jasso.go.jp/en/), [Tokyo Tech](https://www.titech.ac.jp/english/), and [UQ](https://www.uq.edu.au/).
 
 I am originally from [Kutoarjo](https://geographic.org/geographic_names/name.php?uni=-3713855&fid=2393&c=indonesia). <br />
 I proudly speak [Javanese](https://en.wikipedia.org/wiki/Javanese_language) and [Indonesian](https://en.wikipedia.org/wiki/Indonesian_language) as my native languages.
