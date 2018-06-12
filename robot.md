@@ -6,11 +6,11 @@ layout: default
 ---
 
 Initially, I studied robotics in Tim Robot UI (a university-level robotic club in University of Indonesia). <br />
-I gratefully acknowledge the teaching of my supervisors, seniors, and teammates in Tim Robot UI.. <br />
+I gratefully acknowledge the teaching of my supervisors, seniors, and teammates in Tim Robot UI. <br />
 See me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [some robots](https://photos.app.goo.gl/soMObj1VDShBW1sL2)
 
 ## Notes
-* foundations:
+* Foundations:
   [RL](https://github.com/tttor/rl-foundation),
   [DL](https://github.com/tttor/dl-foundation),
   [Robot](https://github.com/tttor/robot-foundation),
