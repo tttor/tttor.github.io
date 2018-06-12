@@ -8,7 +8,7 @@ layout: default
 Greetings! I am Vektor. <br />
 I make autonomous robots _progressively more_ autonomous.
 
-I believe that reinforcement learning (RL) is one _key_ element of _fully_ autonomous robots. <br />
+I believe that reinforcement learning (RL) is one _key_ element of _progressively more_ autonomous robots. <br />
 Here, I refer to RL that is hierarchical, bayesian, deep, actor-critic, dyna (=modelFree + modelBased), ... :) <br />
 For some foundation, please see [my note](https://github.com/tttor/rl-foundation).
 
