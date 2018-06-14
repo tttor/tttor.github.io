@@ -6,7 +6,7 @@ layout: default
 ---
 
 Greetings! I am Vektor. <br />
-I make autonomous robots _progressively more_ autonomous. <br />
+I study how to make autonomous robots _progressively more_ autonomous. <br />
 I believe that one key element is reinforcement learning that is hierarchical, bayesian, deep, actor-critic, Dyna-like, ... :) <br />
 
 I am a PhD student at the [Robot Design Lab](http://robotics.itee.uq.edu.au), [School of ITEE](http://www.itee.uq.edu.au/), [Univ. of Queensland (UQ)](https://www.uq.edu.au/). <br />
