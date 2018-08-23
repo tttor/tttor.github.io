@@ -15,8 +15,8 @@ Me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [some ro
   [DL](https://github.com/tttor/dl-foundation),
   [Robot](https://github.com/tttor/robot-foundation),
   [Math](https://github.com/tttor/math-foundation)
-* [Tool](https://github.com/tttor/robot-foundation/tree/master/tool), 
-  [Talk](https://github.com/tttor/robot-foundation/tree/master/talk/tor),
+* [Talk](https://github.com/tttor/robot-foundation/tree/master/talk/tor),
+  [Tool](https://github.com/tttor/robot-foundation/tree/master/tool), 
   [Printscreen](https://photos.app.goo.gl/p2xnILiK5HJ1l4S52)
 
 ## Inspiring
