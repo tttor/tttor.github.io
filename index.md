@@ -13,7 +13,7 @@ I am a PhD student at the [Robot Design Lab](http://robotics.itee.uq.edu.au), [S
 I am supervised by 
 [Hanna Kurniawati](http://robotics.itee.uq.edu.au/~hannakur/dokuwiki/doku.php?id=wiki:welcome) and
 [Fred Roosta](https://people.smp.uq.edu.au/FredRoosta/). <br />
-These days, I am interested in _Newton-type optimization for (deep)net RL_ and _planning with a learned model_.
+These days, I am interested in _Newton-type optimization for RL with neural networks_ and _planning with a learned model_.
 
 I graduated in
 computational intelligence (m.eng) from the Dept of Computational Intelligence (now part of [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04.html)), [Tokyo Institute of Technology](https://www.titech.ac.jp/english/) and
