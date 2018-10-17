@@ -5,7 +5,7 @@ date: 2018-01-07
 layout: default
 ---
 
-Greetings! I am Vektor. <br />
+Welcome. I am Vektor. <br />
 I study how to make autonomous robots _progressively more_ autonomous. <br />
 I believe that one key element is reinforcement learning that is hierarchical, bayesian, Dyna-like, with neural networks, actor-critic based, ... :) <br />
 
