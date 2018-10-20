@@ -12,7 +12,7 @@ I also speak English and (struggle for) [Arabic](https://en.wikipedia.org/wiki/A
 * [https://github.com/tttor/islam](https://github.com/tttor/islam)
 
 ## Family
-I luckily got married to Ekaputri, a frequentist statistician. <br />
+I am luckily married to Ekaputri, a frequentist statistician. <br />
 Currently, we are raising our first optimal son, Euclid :) <br />
 Our humble gallery is [here](https://photos.app.goo.gl/RCLlPWahKz8b8O0x1).
 
