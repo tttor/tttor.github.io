@@ -18,7 +18,7 @@ These days, I am interested in _Newton-type optimization for RL with neural netw
 I graduated in
 computational intelligence (m.eng) from the Dept of Computational Intelligence (now part of [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04.html)), [Tokyo Institute of Technology](https://www.titech.ac.jp/english/) and
 electrical eng (control eng, b.eng) from the [Dept of Electrical Eng](http://www.ee.ui.ac.id), [Univ. of Indonesia](http://www.ui.ac.id/en/).<br />
-I gratefully acknowledge the financial support of [JASSO](http://www.jasso.go.jp/en/), [Tokyo Tech](https://www.titech.ac.jp/english/), and [UQ](https://www.uq.edu.au/).
+I gratefully acknowledge the financial support of [JASSO](http://www.jasso.go.jp/en/), [Tokyo Tech](https://www.titech.ac.jp/english/), [UQ](https://www.uq.edu.au/), and of course, my parents.
 
 Me on the net: <br/>
 [Github](https://github.com/tttor), 
