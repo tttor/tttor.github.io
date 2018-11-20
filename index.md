@@ -15,7 +15,7 @@ I am supervised by
 These days, I am interested in _Newton-type optimization for actor-critic reinforcement learning with neural networks_ and _planning with learned models_.
 
 I studied control in the [Dept of Electrical Eng](http://www.ee.ui.ac.id), [Univ. of Indonesia](http://www.ui.ac.id/en/) and
-computational intelligence from the [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04.html), [Tokyo Institute of Technology](https://www.titech.ac.jp/english/).
+computational intelligence in the [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04.html), [Tokyo Institute of Technology](https://www.titech.ac.jp/english/).
 I gratefully acknowledge the financial support of [JASSO](http://www.jasso.go.jp/en/), [Tokyo Tech](https://www.titech.ac.jp/english/), [UQ](https://www.uq.edu.au/), and of course, my parents.
 
 Me on the net: <br/>
