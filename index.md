@@ -8,11 +8,12 @@ layout: default
 Welcome. I am Vektor. <br />
 I study how to make autonomous robots _progressively more_ autonomous. <br />
 
-I am a PhD student at the [Robot Design Lab](http://robotics.itee.uq.edu.au), [School of ITEE](http://www.itee.uq.edu.au/), [Univ. of Queensland (UQ)](https://www.uq.edu.au/). <br />
+I am a PhD student at the [School of ITEE](http://www.itee.uq.edu.au/), 
+[Univ. of Queensland (UQ)](https://www.uq.edu.au/). <br />
 I am supervised by 
-[Hanna Kurniawati](http://robotics.itee.uq.edu.au/~hannakur/dokuwiki/doku.php?id=wiki:welcome) and
-[Fred Roosta](https://people.smp.uq.edu.au/FredRoosta/). <br />
-These days, I am interested in _Newton-type optimization for actor-critic reinforcement learning with neural networks_ and _planning with learned models_.
+[Fred Roosta](https://people.smp.uq.edu.au/FredRoosta/) and 
+[Marcus Gallagher](http://staff.itee.uq.edu.au/marcusg/index.html). <br />
+These days, I am interested in _policy optimization in reinforcement learning_.
 
 I studied control in the [Dept of Electrical Eng](http://www.ee.ui.ac.id), [Univ. of Indonesia](http://www.ui.ac.id/en/) and
 computational intelligence in the [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04.html), [Tokyo Institute of Technology](https://www.titech.ac.jp/english/).
