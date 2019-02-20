@@ -11,8 +11,9 @@ I study how to make autonomous robots _progressively more_ autonomous. <br />
 I am a PhD student at the [School of ITEE](http://www.itee.uq.edu.au/), 
 [Univ. of Queensland (UQ)](https://www.uq.edu.au/). <br />
 I am supervised by 
-[Fred Roosta](https://people.smp.uq.edu.au/FredRoosta/) and 
-[Marcus Gallagher](http://staff.itee.uq.edu.au/marcusg/index.html). <br />
+[Fred Roosta](https://people.smp.uq.edu.au/FredRoosta/), 
+[Marcus Gallagher](http://staff.itee.uq.edu.au/marcusg/index.html), and
+[Ali Eshragh](http://www.alieshragh.info/).<br />
 These days, I am interested in _policy optimization in reinforcement learning_.
 
 I studied control in the [Dept of Electrical Eng](http://www.ee.ui.ac.id), [Univ. of Indonesia](http://www.ui.ac.id/en/) and
