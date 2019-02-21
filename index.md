@@ -14,7 +14,7 @@ I am supervised by
 [Fred Roosta](https://people.smp.uq.edu.au/FredRoosta/), 
 [Marcus Gallagher](http://staff.itee.uq.edu.au/marcusg/index.html), and
 [Ali Eshragh](http://www.alieshragh.info/).<br />
-These days, I am interested in _policy optimization in reinforcement learning_.
+These days, I am excited about _policy optimization in reinforcement learning_.
 
 I studied control in the [Dept of Electrical Eng](http://www.ee.ui.ac.id), [Univ. of Indonesia](http://www.ui.ac.id/en/) and
 computational intelligence in the [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04.html), [Tokyo Institute of Technology](https://www.titech.ac.jp/english/).
