@@ -20,13 +20,14 @@ Me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [some ro
   [Printscreen](https://photos.app.goo.gl/p2xnILiK5HJ1l4S52)
 
 ## Inspiring
-* Smart and hard work:
+* Hard work:
   * [Loyal seniors (goto 50:00)](https://www.youtube.com/watch?v=qMgGqHo8nsg)
   * [NASA Reacts To Mars Curiosity Rover Landing (goto 3:00)](https://www.youtube.com/watch?v=svUJdzMHwmM)
   * [Suumo engineers a house](https://www.facebook.com/adobomagazine/videos/10154217936341758/?hc_ref=ARQPbYFzKwLiSCy2j41DfWU34THIdw_-cf_wfakDndSMSECDuX_YcKY8Ep6KPKttqdw)
   * [Steve's connecting the dots](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
   * [Andrew thanks MLclass students (goto 02:30)](https://www.youtube.com/watch?v=Qz41Q89cHGM&list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP&index=107)
   * [Fields Medal — Alessio Figalli](https://www.youtube.com/watch?v=G0rrnx8SaDI)
+  * [Eddie Woo: think deeply! why? what if?](https://www.youtube.com/watch?v=-YJSDJGyIaU)
 * To remove the barriers in the way of science:
   [OpenSource](https://opensource.guide/),
   [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub),
