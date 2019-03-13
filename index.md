@@ -24,6 +24,5 @@ Me on the net: <br/>
 [Github](https://github.com/tttor), 
 [Bitbucket](https://bitbucket.org/tttor/), 
 [GoogleScholar](https://scholar.google.com/citations?user=AYOBcPYAAAAJ), 
-[Scopus](https://www.scopus.com/authid/detail.uri?authorId=56595210300), 
 [ROSAnswers](https://answers.ros.org/users/1552/tor/),
 [Twitter](https://twitter.com/tttorrr).
