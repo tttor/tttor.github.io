@@ -9,7 +9,7 @@ I proudly speak [Javanese](https://en.wikipedia.org/wiki/Javanese_language) and 
 I also speak English and (struggle for) [Arabic](https://en.wikipedia.org/wiki/Arabic).
 
 ## Islam
-* [https://github.com/tttor/islam](https://github.com/tttor/islam)
+Go to: [https://github.com/tttor/islam](https://github.com/tttor/islam)
 
 ## Family
 I am luckily married to Ekaputri, a frequentist statistician. <br />
