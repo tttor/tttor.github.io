@@ -12,7 +12,7 @@ Me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [some ro
 ## Notes
 * Foundations:
   [RL](https://github.com/tttor/rl-foundation),
-  [DL](https://github.com/tttor/dl-foundation),
+  [ML](https://github.com/tttor/ml-foundation),
   [Robot](https://github.com/tttor/robot-foundation),
   [Math](https://github.com/tttor/math-foundation)
 * [Talk](https://github.com/tttor/robot-foundation/tree/master/talk/tor),
