@@ -5,7 +5,7 @@ date: 2018-01-07
 layout: default
 ---
 
-Initially, I studied robotics in Tim Robot UI (a university-level robotic club in University of Indonesia). <br />
+I initially studied robotics in Tim Robot UI (a university-level robotic club in University of Indonesia). <br />
 I gratefully acknowledge the teaching of my supervisors, seniors, and teammates in Tim Robot UI. <br />
 Me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [some robots](https://photos.app.goo.gl/soMObj1VDShBW1sL2).
 
