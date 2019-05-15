@@ -5,8 +5,8 @@ date: 2018-01-07
 layout: default
 ---
 I am originally from [Kutoarjo](https://geographic.org/geographic_names/name.php?uni=-3713855&fid=2393&c=indonesia). <br />
-I proudly speak [Javanese](https://en.wikipedia.org/wiki/Javanese_language) and [Indonesian](https://en.wikipedia.org/wiki/Indonesian_language).
-I also speak English and (struggle for) [Arabic](https://en.wikipedia.org/wiki/Arabic).
+I proudly speak [Javanese](https://en.wikipedia.org/wiki/Javanese_language) and [Indonesian](https://en.wikipedia.org/wiki/Indonesian_language), so does my mother.
+I am also learning and [Arabic](https://en.wikipedia.org/wiki/Arabic).
 
 ## Islam
 Go to: [https://github.com/tttor/islam](https://github.com/tttor/islam)
