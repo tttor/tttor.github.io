@@ -22,7 +22,6 @@ Me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [some ro
 ## Do (something best) for a living
 * [The World's Best Mathematician](https://www.youtube.com/watch?v=MXJ-zpJeY3E)
 * [Steve's connecting the dots](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
-* [Andrew thanks MLclass students (goto 02:30)](https://www.youtube.com/watch?v=Qz41Q89cHGM&list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP&index=107)
 * [Fields Medal — Alessio Figalli](https://www.youtube.com/watch?v=G0rrnx8SaDI)
 * [Eddie Woo: think deeply! why? what if?](https://www.youtube.com/watch?v=-YJSDJGyIaU)
 * [GECD career devel handbook](https://gecd.mit.edu/sites/default/files/about/files/career-handbook.pdf),
@@ -31,6 +30,7 @@ Me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [some ro
 * nailed it:
   [Loyal seniors (goto 50:00)](https://www.youtube.com/watch?v=qMgGqHo8nsg),
   [NASA Reacts To Mars Curiosity Rover Landing (goto 3:00)](https://www.youtube.com/watch?v=svUJdzMHwmM),
+  * [Andrew Ng, so that's it (goto 02:30)](https://www.youtube.com/watch?v=Qz41Q89cHGM&list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP&index=107),
   [Suumo engineers a house](https://www.facebook.com/adobomagazine/videos/10154217936341758/?hc_ref=ARQPbYFzKwLiSCy2j41DfWU34THIdw_-cf_wfakDndSMSECDuX_YcKY8Ep6KPKttqdw)
 
 ## Misc
