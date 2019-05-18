@@ -20,18 +20,20 @@ Me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [some ro
   [Printscreen](https://photos.app.goo.gl/p2xnILiK5HJ1l4S52)
   
 ## Do (something best) for a living
-* [The World's Best Mathematician](https://www.youtube.com/watch?v=MXJ-zpJeY3E)
-* [Steve's connecting the dots](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
-* [Fields Medal — Alessio Figalli](https://www.youtube.com/watch?v=G0rrnx8SaDI)
-* [Eddie Woo: think deeply! why? what if?](https://www.youtube.com/watch?v=-YJSDJGyIaU)
-* [GECD career devel handbook](https://gecd.mit.edu/sites/default/files/about/files/career-handbook.pdf),
-  [A. Karpathy: A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/),
-  [Richard Hamming:You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html),
-* nailed it:
+* Advice:
+  [The World's Best Mathematician](https://www.youtube.com/watch?v=MXJ-zpJeY3E),
+  [Steve's connecting the dots](https://www.youtube.com/watch?v=UF8uR6Z6KLc),
+  [Fields Medal — Alessio Figalli](https://www.youtube.com/watch?v=G0rrnx8SaDI),
+  [Eddie Woo: think deeply! why? what if?](https://www.youtube.com/watch?v=-YJSDJGyIaU),
+  [A. Karpathy: A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/)
+* Nailed it:
   [Loyal seniors (goto 50:00)](https://www.youtube.com/watch?v=qMgGqHo8nsg),
   [NASA Reacts To Mars Curiosity Rover Landing (goto 3:00)](https://www.youtube.com/watch?v=svUJdzMHwmM),
-  [Andrew Ng, so that's it (goto 02:30)](https://www.youtube.com/watch?v=Qz41Q89cHGM&list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP&index=107),
+  [Andrew Ng: so that's it (goto 02:30)](https://www.youtube.com/watch?v=Qz41Q89cHGM&list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP&index=107),
   [Suumo engineers a house](https://www.facebook.com/adobomagazine/videos/10154217936341758/?hc_ref=ARQPbYFzKwLiSCy2j41DfWU34THIdw_-cf_wfakDndSMSECDuX_YcKY8Ep6KPKttqdw)
+* Manual: 
+  [GECD career devel handbook](https://gecd.mit.edu/sites/default/files/about/files/career-handbook.pdf),
+  [Richard Hamming:You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html),
 
 ## Misc
 * To remove the barriers in the way of science:
