@@ -28,6 +28,7 @@ Me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [some ro
   * [Andrew thanks MLclass students (goto 02:30)](https://www.youtube.com/watch?v=Qz41Q89cHGM&list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP&index=107)
   * [Fields Medal — Alessio Figalli](https://www.youtube.com/watch?v=G0rrnx8SaDI)
   * [Eddie Woo: think deeply! why? what if?](https://www.youtube.com/watch?v=-YJSDJGyIaU)
+  * [The World's Best Mathematician](https://www.youtube.com/watch?v=MXJ-zpJeY3E)
 * To remove the barriers in the way of science:
   [OpenSource](https://opensource.guide/),
   [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub),
