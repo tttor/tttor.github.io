@@ -31,6 +31,9 @@ Me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [some ro
   [NASA Reacts To Mars Curiosity Rover Landing (goto 3:00)](https://www.youtube.com/watch?v=svUJdzMHwmM),
   [Andrew Ng: so that's it (goto 02:30)](https://www.youtube.com/watch?v=Qz41Q89cHGM&list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP&index=107),
   [Suumo engineers a house](https://www.facebook.com/adobomagazine/videos/10154217936341758/?hc_ref=ARQPbYFzKwLiSCy2j41DfWU34THIdw_-cf_wfakDndSMSECDuX_YcKY8Ep6KPKttqdw)
+* Example:
+  [The Mathematician Turning Basketball Into a Science](https://www.youtube.com/watch?v=MpLHMKTolVw),
+  [High Tech Farmer Grows Kale in a Factory](https://www.youtube.com/watch?v=Hkk_JlIQOpw)
 * Manual: 
   [GECD career devel handbook](https://gecd.mit.edu/sites/default/files/about/files/career-handbook.pdf),
   [Richard Hamming:You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html),
