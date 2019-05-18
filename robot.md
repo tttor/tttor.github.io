@@ -21,11 +21,12 @@ Me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [some ro
   
 ## Do (something best) for a living
 * Advice:
-  [The World's Best Mathematician](https://www.youtube.com/watch?v=MXJ-zpJeY3E),
-  [Steve's connecting the dots](https://www.youtube.com/watch?v=UF8uR6Z6KLc),
-  [Fields Medal — Alessio Figalli](https://www.youtube.com/watch?v=G0rrnx8SaDI),
+  [Terry Tao](https://www.youtube.com/watch?v=MXJ-zpJeY3E),
+  [Steve: connecting the dots](https://www.youtube.com/watch?v=UF8uR6Z6KLc),  
   [Eddie Woo: think deeply! why? what if?](https://www.youtube.com/watch?v=-YJSDJGyIaU),
-  [A. Karpathy: A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/)
+  [A. Karpathy: A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/),
+  [GECD career devel handbook](https://gecd.mit.edu/sites/default/files/about/files/career-handbook.pdf),
+  [Richard Hamming:You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html),
 * Nailed it:
   [Loyal seniors (goto 50:00)](https://www.youtube.com/watch?v=qMgGqHo8nsg),
   [NASA Reacts To Mars Curiosity Rover Landing (goto 3:00)](https://www.youtube.com/watch?v=svUJdzMHwmM),
@@ -33,10 +34,8 @@ Me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [some ro
   [Suumo engineers a house](https://www.facebook.com/adobomagazine/videos/10154217936341758/?hc_ref=ARQPbYFzKwLiSCy2j41DfWU34THIdw_-cf_wfakDndSMSECDuX_YcKY8Ep6KPKttqdw)
 * Example:
   [The Mathematician Turning Basketball Into a Science](https://www.youtube.com/watch?v=MpLHMKTolVw),
-  [High Tech Farmer Grows Kale in a Factory](https://www.youtube.com/watch?v=Hkk_JlIQOpw)
-* Manual: 
-  [GECD career devel handbook](https://gecd.mit.edu/sites/default/files/about/files/career-handbook.pdf),
-  [Richard Hamming:You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html),
+  [High Tech Farmer Grows Kale in a Factory](https://www.youtube.com/watch?v=Hkk_JlIQOpw),
+  [Fields Medal — Alessio Figalli](https://www.youtube.com/watch?v=G0rrnx8SaDI)
 
 ## Misc
 * To remove the barriers in the way of science:
