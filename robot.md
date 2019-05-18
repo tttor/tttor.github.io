@@ -22,7 +22,7 @@ Me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [some ro
 ## Do (something best) for a living
 * Advice:
   [Terry Tao](https://www.youtube.com/watch?v=MXJ-zpJeY3E),
-  [Steve: connecting the dots](https://www.youtube.com/watch?v=UF8uR6Z6KLc),  
+  [Steve: connecting the dots](https://www.youtube.com/watch?v=UF8uR6Z6KLc),
   [Eddie Woo: think deeply! why? what if?](https://www.youtube.com/watch?v=-YJSDJGyIaU),
   [A. Karpathy: A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/),
   [GECD career devel handbook](https://gecd.mit.edu/sites/default/files/about/files/career-handbook.pdf),
