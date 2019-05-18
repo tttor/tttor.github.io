@@ -43,7 +43,8 @@ Me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [some ro
   [OpenSource](https://opensource.guide/),
   [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub),
   [LibGen](https://en.wikipedia.org/wiki/Library_Genesis),
-  [Tor: Powering Digital Resistance](https://www.torproject.org/)
+  [Tor: Powering Digital Resistance](https://www.torproject.org/),
+  [Postersession](https://postersession.ai/about/)
 * Stories:
   [I, Robot](https://en.wikipedia.org/wiki/I,_Robot_(film)),
   [The Phd Movie](https://phdmovie.com/),
