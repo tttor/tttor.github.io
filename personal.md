@@ -6,7 +6,7 @@ layout: default
 ---
 I am originally from [Kutoarjo](https://geographic.org/geographic_names/name.php?uni=-3713855&fid=2393&c=indonesia)
 and proudly speak [Javanese](https://en.wikipedia.org/wiki/Javanese_language) and [Indonesian](https://en.wikipedia.org/wiki/Indonesian_language), so does my mother. <br />
-I am also learning [English](https://en.wikipedia.org/wiki/English_language) 
+I am also learning [English](https://en.wikipedia.org/wiki/English_language)
 and [Arabic](https://en.wikipedia.org/wiki/Arabic).
 
 ## Islam
@@ -37,3 +37,7 @@ Resources:
   [Gotong royong](https://www.facebook.com/eka.cana/videos/1125285464160315/?hc_ref=ARQE3KWMdji3Gw3OSwsBzpocPKzaqEk94WAuIFXx0CVU-kAjcmAEwA-33j1VuT1wBU4),
   [Polos](https://www.facebook.com/ary.odan/videos/1038625656192187/?hc_ref=ARQx_ckzgxi2UG4nECXqXNc9aJg38N7H9cq7C_F8H-AH0vrW_Brmwai2glEDvN7XfeY),
   [Tani](https://www.youtube.com/watch?v=avkhlRjspzM)
+
+## Fitness
+* [Fitness Blender: Cool Down and Full Body Stretch - Relaxing Cool Down and Str](?)
+* [Fitness Blender Upper Body Stretching Routine](?)
