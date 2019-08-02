@@ -17,3 +17,6 @@
 * https://github.com/OleVik/personal-academic-website
 * https://github.com/msaveski/www_personal
   * https://thashim.github.io/
+* https://mademistakes.com/work/minimal-mistakes-jekyll-theme/
+  * https://fxbriol.github.io/
+  
