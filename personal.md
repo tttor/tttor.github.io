@@ -47,3 +47,9 @@ Resources:
 https://ell.stackexchange.com/questions/3694/suggest-me-or-suggest-to-me
 
 END -->
+
+
+<!-- ## Teaching, supervising
+https://www.elsevier.com/connect/10-ingredients-for-a-successful-supervisor-phd-student-relationship
+
+END -->
