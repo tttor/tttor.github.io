@@ -16,9 +16,9 @@ Me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [some ro
   [Robot](https://github.com/tttor/robot-foundation),
   [Math](https://github.com/tttor/math-foundation)
 * [Talk](https://github.com/tttor/robot-foundation/tree/master/talk/tor),
-  [Tool](https://github.com/tttor/robot-foundation/tree/master/tool), 
+  [Tool](https://github.com/tttor/robot-foundation/tree/master/tool),
   [Printscreen](https://photos.app.goo.gl/p2xnILiK5HJ1l4S52)
-  
+
 ## Do (something best) for a living
 * Advice:
   [Terry Tao: isolate some simplest metaphor of your problem](https://www.youtube.com/watch?v=MXJ-zpJeY3E),
@@ -55,3 +55,10 @@ Me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [some ro
   [Star Wars: The Force Awakens](https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens),
   [BBC Documentary - Make Me a German, 2016](https://www.youtube.com/watch?v=ls-4jDyieVs),
   [Robots Bring Couple Together](https://spectrum.ieee.org/automaton/robotics/humanoids/engaging-with-robots),
+
+
+<!-- tmp
+Bloomberg: The Rise of AI.mp4
+Bloomberg: Inside the United Kingdom's Tech Renaissance.mp4
+Bloomberg: China's High-Stakes Robot Wars.mp4
+tmp: end -->
