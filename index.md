@@ -17,7 +17,7 @@ I am supervised by
 These days, I am excited about _policy optimization in reinforcement learning_.
 
 I studied control in the [Dept of Electrical Eng](http://www.ee.ui.ac.id), [Univ. of Indonesia](http://www.ui.ac.id/en/) and
-computational intelligence in the [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04.html), [Tokyo Institute of Technology](https://www.titech.ac.jp/english/).
+computational intelligence in the [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04.html), [Tokyo Institute of Technology](https://www.titech.ac.jp/english/). <br />
 I gratefully acknowledge the financial support of [JASSO](http://www.jasso.go.jp/en/), [Tokyo Tech](https://www.titech.ac.jp/english/), [UQ](https://www.uq.edu.au/), and of course, my parents.
 
 Me on the net: <br/>
