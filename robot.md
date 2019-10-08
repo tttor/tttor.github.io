@@ -33,6 +33,7 @@ Me with [my teammates](https://photos.app.goo.gl/7ChgnYcrqtAY2ieJ2) and [some ro
   [NASA Reacts To Mars Curiosity Rover Landing (goto 3:00)](https://www.youtube.com/watch?v=svUJdzMHwmM),
   [Andrew Ng: so that's it (goto 02:30)](https://www.youtube.com/watch?v=Qz41Q89cHGM&list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP&index=107),
   [Suumo engineers a house](https://www.facebook.com/adobomagazine/videos/10154217936341758/?hc_ref=ARQPbYFzKwLiSCy2j41DfWU34THIdw_-cf_wfakDndSMSECDuX_YcKY8Ep6KPKttqdw)
+  [Robert Bixby: How was Gurobi founded?](https://www.youtube.com/watch?v=YoQ2h_G3PNM)
 * Example:
   [The Mathematician Turning Basketball Into a Science](https://www.youtube.com/watch?v=MpLHMKTolVw),
   [High Tech Farmer Grows Kale in a Factory](https://www.youtube.com/watch?v=Hkk_JlIQOpw),
