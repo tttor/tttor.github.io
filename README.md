@@ -21,3 +21,4 @@
   * https://fxbriol.github.io/
 * https://rkeramati.github.io/index.html
 * https://andyzeng.github.io/
+* https://shazanfar.github.io/
