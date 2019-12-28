@@ -13,7 +13,7 @@
   * `cd myblog`
   * `bundle exec jekyll serve` # Now browse to http://localhost:4000
 
-## ref
+## sample pages
 * https://github.com/OleVik/personal-academic-website
 * https://github.com/msaveski/www_personal
   * https://thashim.github.io/
@@ -25,3 +25,4 @@
 * https://lindonroberts.github.io/
 * https://roberttlange.github.io/
 * https://bodono.github.io/index.html
+* https://ruoyus.github.io/
