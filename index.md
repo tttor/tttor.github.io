@@ -6,7 +6,7 @@ layout: default
 ---
 
 Welcome. I am Vektor. <br />
-I study how to make autonomous robots _progressively more_ autonomous. <br />
+I study control and reinforcement learning to make autonomous robots _progressively more_ autonomous. <br />
 
 I am a PhD student at the [School of ITEE](http://www.itee.uq.edu.au/), 
 [Univ. of Queensland (UQ)](https://www.uq.edu.au/). <br />
