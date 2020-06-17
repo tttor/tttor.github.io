@@ -43,13 +43,6 @@ Resources:
 * [Fitness Blender: Cool Down and Full Body Stretch - Relaxing Cool Down and Str](?)
 * [Fitness Blender Upper Body Stretching Routine](?)
 
-<!-- ## Languages
-https://ell.stackexchange.com/questions/3694/suggest-me-or-suggest-to-me
-
-END -->
-
-
-<!-- ## Teaching, supervising
-https://www.elsevier.com/connect/10-ingredients-for-a-successful-supervisor-phd-student-relationship
-
-END -->
+<!-- ## Photography
+https://www.instagram.com/meredithfrost/
+-->
