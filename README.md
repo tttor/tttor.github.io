@@ -32,3 +32,4 @@
 * https://bguedj.github.io/
 * https://adjidieng.github.io/
 * https://lindapetrini.github.io/
+* https://github.com/dicook/dicook.github.io
