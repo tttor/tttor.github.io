@@ -8,3 +8,4 @@ My publications can be found in
 [arXiv](https://arxiv.org/a/dewanto_v_1.html),
 [dblp](https://dblp.org/pid/180/6982.html), and
 [SemanticScholar](https://www.semanticscholar.org/author/Vektor-Dewanto/3408231).
+All of them are joint work with my wonderful and supportive collaborators.
