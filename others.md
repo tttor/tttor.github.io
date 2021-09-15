@@ -1,4 +1,4 @@
-I am originally from [Kutoarjo](https://geographic.org/geographic_names/name.php?uni=-3713855&fid=2393&c=indonesia),
+I am originally from [Kutoarjo](https://en.wikipedia.org/wiki/Kutoarjo,_Purworejo),
 and luckily married to Ekaputri.
 We are raising our first optimal son, Euclid.
 
