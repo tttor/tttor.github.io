@@ -2,9 +2,10 @@ I always feel great satisfaction of helping others to learn.
 Below is related to my teaching/tutoring experience.
 
 ### Tutor at [ITEE, UQ](https://itee.uq.edu.au/)
-* [Machine Learning (COMP4702)](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP4702): 2019, 2020, 2021
+* [Machine Learning (COMP4702)](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP4702): 2019, 2020, 2021, 2022
 * [Artificial Intelligence (COMP3702)](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP3702): 2019, 2020, 2021
 * [Data Mining (INFS4203)](https://my.uq.edu.au/programs-courses/course.html?course_code=INFS4203): 2021
+* [Introduction to Data Science (DATA7001)](https://my.uq.edu.au/programs-courses/course.html?course_code=DATA7001): 2022
 
 ### Training
 * [Graduate Teaching Associates program, 2020](https://itali.uq.edu.au/advancing-teaching/teaching-career-development/professional-learning-programs/graduate-teaching-associates-gta-program)
