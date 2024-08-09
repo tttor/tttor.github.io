@@ -1,4 +1,4 @@
-I feel great satisfaction of helping others to learn.
+I feel satisfaction of helping others to learn.
 Below is related to my teaching/tutoring experience.
 
 ### Tutor at [School of EECS, UQ](https://eecs.uq.edu.au/)
